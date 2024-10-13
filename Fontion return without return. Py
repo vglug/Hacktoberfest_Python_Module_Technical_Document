@@ -1,0 +1,16 @@
+1) return
+
+def add_numbers(a, b):
+    return a + b
+
+result = add_numbers(5, 3)
+print(result)  # Output: 8
+
+2)
+without return
+
+def greet(name):
+    print(f"Hello, {name}!")
+
+result = greet("Alice")
+print(result)  # Output: Hello, Alice! followed by None
