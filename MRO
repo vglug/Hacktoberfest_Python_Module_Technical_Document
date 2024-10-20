@@ -1,0 +1,12 @@
+Class A:
+     def method(self):
+         print("A")
+Class B(A):
+     pass
+Class C(A):
+      def method(self):
+          print("C")
+Class D(B,C):
+      pass
+d=D()
+d.method()
