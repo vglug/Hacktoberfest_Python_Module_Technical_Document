@@ -1,4 +1,4 @@
-#Count the letter b
+#Count the letter particular letter in a given string.
 def countB(word):
     print("The input word is = ",word)
     count=0
@@ -8,7 +8,7 @@ def countB(word):
     return count
 print("Number of 'b' =", countB("abbbabcdefbbghibk"))
 
-#Count the vowels
+#Count the vowels in a given string.
 def countvowels(word):
     print("Word =", word)
     word=word.lower()
