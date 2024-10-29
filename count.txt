@@ -1,0 +1,27 @@
+# Count the particular letter in a given string.
+  
+1. Input string: "abbbabcdefbbghibka"
+   Letter to be check: "b" 
+   Output: 7
+
+2. Input string: "Hacktoberfest Python Module"
+   Letter to be check: "o" 
+   Output: 3
+3. Input string: "Count() is a Python built-in function"
+   Letter to be check: "i"
+   Output: 4
+
+
+# Count the vowels in a given string.
+
+1. Input string: "Python string is a data type used to represent a sequence of characters"
+   Output: {'a': 6, 'e': 9, 'i': 2, 'o': 3, 'u': 2}
+
+2. Input string: "Currently I am learning about string in python"
+   Output: {'a': 3, 'e': 2, 'i': 4, 'o': 2, 'u': 2}
+
+3. Input string: "Python is a powerful tool that opens doors to endless possibilities"
+   Output: {'a': 2, 'e': 5, 'i': 5, 'o': 9, 'u': 1}
+
+
+ 
