@@ -1,0 +1,20 @@
+# Check the word that appears in word1 also appears in word2
+
+1) Input:
+	word1="python programming is fantastic"
+        word2="Awesome python programming "
+        
+   Output:
+	p y t h o n   p r o g r a m m i n g   i s   a n t a s t i
+
+2) Input:
+        word1="Computer science engineering"
+	word2="IFET College"      
+   Output:
+	c o t e   c i e c e   e g i e e i g 
+
+3) Input:
+ 	word1="panruti"
+	word2="Villupuram"
+    Output:
+        p a r u i
