@@ -1,0 +1,10 @@
+s=input("Enter string:")
+ i=0
+ while i<len (s) //2:
+    if s[i]! =s[len (s) -1-i]:
+        break
+     i=i+1
+ if i==len (s) //2:
+      print("It is palindrome ")
+ else:
+      print("not palindrome ")
