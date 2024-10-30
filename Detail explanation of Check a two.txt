@@ -1,0 +1,21 @@
+#Detail explanation of Check a two words:
+It is applied by two methods:
+(membership operator)
+(comparison operator)
+
+#membership operator
+ 1) check a words in two strings are applied by membership operator
+2) the operators are (in and not in )
+if the character is present in the string it is checked by in operator and it prints the outputs.
+3)if the character is not in the string then it shows the output.
+
+#comparsion operator
+1)It takes two words such as word1 and word2  and it is compared the character in word1 and word2 such as p in word1 and word2 are same then it is consider as same word
+2) it is prints the same words in word1 and word2 separated by space.
+
+#real application
+1)Bank applications
+2)Employee details in organization
+3)password check in Atms
+
+ 
