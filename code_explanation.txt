@@ -1,0 +1,9 @@
+Explanation of the code:
+
+1.Gives the two inputs such as word1 and word2
+2.The strings present in word1 and word2 are convert into lowercase using lowercase() method
+3.To ensure that the comparison of word1 and word2 such as example word1 as p and  word2 as p so it as same word consider.
+4. The looping of iteration is applied to the character.
+5.Checking of characters in word1 and word2 that as both are same of character and it is displays in the output separated by space.
+
+ 
