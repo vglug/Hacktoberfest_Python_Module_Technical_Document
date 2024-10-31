@@ -1,0 +1,15 @@
+#calculate percentage
+
+
+
+Maths = int(input())
+Science = int(input())
+English = int(input())
+def calculate_percentage(Maths,Science,English):
+    marks= Maths+Science+English
+    percentage =(marks/300)*100
+    print(marks)
+    print(percentage)
+
+    
+calculate_percentage(Maths,Science,English)
