@@ -1,0 +1,7 @@
+#explanation of string 
+1)String is one of the pre-defined function
+2)It is used to represent the sequence of characters within (" ")double quotation.
+3)It is consider the space ,numbers ,character ,are placed in double quotation.
+4)String in python is build-in-string class .
+5)It is commonly used  in python .
+6)It has so many method used  in string  module .
